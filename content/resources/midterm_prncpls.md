@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: dd5d11d4-d63b-b4d0-a0a4-27d7e39a260e
 resourcetype: Document
 title: midterm_prncpls.pdf
 uid: 34f43e1e-330a-7229-a3ca-7a76740644d2

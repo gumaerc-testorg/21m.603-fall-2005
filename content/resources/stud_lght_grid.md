@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a804d000-032e-be79-bfa0-0ce7a1e6af17
 resourcetype: Document
 title: stud_lght_grid.pdf
 uid: a098fe66-2ed0-d8b7-e2c3-b1c5ec2d8f77

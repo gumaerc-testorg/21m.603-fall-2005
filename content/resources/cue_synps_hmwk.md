@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: dd5d11d4-d63b-b4d0-a0a4-27d7e39a260e
 resourcetype: Document
 title: cue_synps_hmwk.pdf
 uid: de10e627-0547-cce7-0cd0-afe187ad24ef

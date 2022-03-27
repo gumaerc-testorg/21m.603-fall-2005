@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a804d000-032e-be79-bfa0-0ce7a1e6af17
 resourcetype: Document
 title: stud_grd_invntry.pdf
 uid: 4c7e08a1-a505-97e9-9af0-413120b4fa03

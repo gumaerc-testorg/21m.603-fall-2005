@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: dd5d11d4-d63b-b4d0-a0a4-27d7e39a260e
 resourcetype: Document
 title: lght_fnl_asgn.pdf
 uid: c55be4eb-9082-5150-ec53-7d26838f6a49

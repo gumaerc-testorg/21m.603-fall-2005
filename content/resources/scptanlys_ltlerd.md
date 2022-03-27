@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a804d000-032e-be79-bfa0-0ce7a1e6af17
 resourcetype: Document
 title: scptanlys_ltlerd.pdf
 uid: 45319433-a1e6-653e-69f8-7284e269e268

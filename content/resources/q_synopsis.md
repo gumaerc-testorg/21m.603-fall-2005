@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a804d000-032e-be79-bfa0-0ce7a1e6af17
 resourcetype: Document
 title: q_synopsis.pdf
 uid: 99b9c14a-cbac-1c5d-74c2-808b48ade13d

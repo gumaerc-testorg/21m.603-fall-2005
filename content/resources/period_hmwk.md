@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: dd5d11d4-d63b-b4d0-a0a4-27d7e39a260e
 resourcetype: Document
 title: period_hmwk.pdf
 uid: d31b8e42-e0ff-d087-b1a8-cd764d8df943
