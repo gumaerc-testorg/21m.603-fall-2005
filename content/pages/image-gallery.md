@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: All images in this gallery are courtesy of Prof. William Fregosi. Student
+  projects appear courtesy of the individual designer.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Image Gallery
