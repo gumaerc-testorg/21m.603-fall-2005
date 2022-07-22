@@ -6,6 +6,7 @@ file: /courses/21m-603-principles-of-design-fall-2005/de10e6270547cce70cd0afe187
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: cue_synps_hmwk.pdf
 uid: de10e627-0547-cce7-0cd0-afe187ad24ef
 ---
 This resource contains the homework assignment to create a synopsis for the students.
-
