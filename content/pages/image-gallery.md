@@ -1,11 +1,15 @@
 ---
 content_type: page
+description: All images in this gallery are courtesy of Prof. William Fregosi. Student
+  projects appear courtesy of the individual designer.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Image Gallery
 uid: 51233470-b9fb-0ce2-2e58-d82a7c19c0e9
 ---
 
 All images in this gallery are courtesy of Prof. William Fregosi. Student projects appear courtesy of the individual designer.
-{{< image-gallery id="51233470-b9fb-0ce2-2e58-d82a7c19c0e9_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/21m-603-principles-of-design-fall-2005/" >}}
+{{< image-gallery id="51233470-b9fb-0ce2-2e58-d82a7c19c0e9_nanogallery2" baseUrl="/courses/21m-603-principles-of-design-fall-2005/" >}}
 {{< image-gallery-item href="88632ede457d238080e4d1472a2a51de_21m603001.jpg" data-ngdesc="Aristophanes: LYSISTRATA — Spartan Ambassador. Image courtesy of Meg Rosenburg." text="Aristophanes: LYSISTRATA — Spartan Ambassador." >}}
 {{< image-gallery-item href="018969ab189ed0be5d814fa41cc8977e_21m603002.jpg" data-ngdesc="Aristophanes: LYSISTRATA — Cinesius. Image courtesy of Meg Rosenburg." text="Aristophanes: LYSISTRATA — Cinesius." >}}
 {{< image-gallery-item href="b0daf663eca35f5dc843ce20c87b4aab_21m603003.jpg" data-ngdesc="Aristophanes: LYSISTRATA — Lysistrata. Image courtesy of Meg Rosenburg." text="Aristophanes: LYSISTRATA — Lysistrata." >}}

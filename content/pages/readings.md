@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section contains list of readings and videos associated with the
+  course material.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 673553b3-7ebf-5243-a91f-76135ca9ac09
 ---
 
-The following books and videos support the [course assignments]({{< baseurl >}}/pages/assignments) and class discussions.
+The following books and videos support the {{% resource_link dd5d11d4-d63b-b4d0-a0a4-27d7e39a260e "course assignments" %}} and class discussions.
 
 Texts
 -----
