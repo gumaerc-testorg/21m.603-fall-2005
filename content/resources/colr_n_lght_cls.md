@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains questions on color practising.
 file: /courses/21m-603-principles-of-design-fall-2005/df10d36d52c1d20a05d094f1dde60cd0_colr_n_lght_cls.pdf
+file_size: 8958
 file_type: application/pdf
 learning_resource_types:
 - Assignments
