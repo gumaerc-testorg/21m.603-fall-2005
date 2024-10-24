@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource helps the student to create the studio grid inventory.
-file: /courses/21m-603-principles-of-design-fall-2005/4c7e08a1a50597e99af0413120b4fa03_stud_grd_invntry.pdf
+file: /ol-ocw-studio-app/courses/21m-603-principles-of-design-fall-2005/4c7e08a1a50597e99af0413120b4fa03_stud_grd_invntry.pdf
 file_size: 32387
 file_type: application/pdf
 learning_resource_types: []
