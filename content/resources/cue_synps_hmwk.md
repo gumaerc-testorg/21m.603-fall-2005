@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the homework assignment to create a synopsis for
   the students.
-file: /ol-ocw-studio-app/courses/21m-603-principles-of-design-fall-2005/de10e6270547cce70cd0afe187ad24ef_cue_synps_hmwk.pdf
+file: /courses/21m-603-principles-of-design-fall-2005/de10e6270547cce70cd0afe187ad24ef_cue_synps_hmwk.pdf
 file_size: 14352
 file_type: application/pdf
 learning_resource_types:
