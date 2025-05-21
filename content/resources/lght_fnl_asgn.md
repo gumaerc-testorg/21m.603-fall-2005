@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on principles of design and helps
   the student to create a presentation with the help of lighting resources.
-file: /ol-ocw-studio-app/courses/21m-603-principles-of-design-fall-2005/c55be4eb90825150ec537d26838f6a49_lght_fnl_asgn.pdf
+file: /courses/21m-603-principles-of-design-fall-2005/c55be4eb90825150ec537d26838f6a49_lght_fnl_asgn.pdf
 file_size: 35354
 file_type: application/pdf
 learning_resource_types:
