@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the homework assignment on history of design.
-file: /ol-ocw-studio-app/courses/21m-603-principles-of-design-fall-2005/d31b8e42e0ffd087b1a8cd764d8df943_period_hmwk.pdf
+file: /courses/21m-603-principles-of-design-fall-2005/d31b8e42e0ffd087b1a8cd764d8df943_period_hmwk.pdf
 file_size: 22402
 file_type: application/pdf
 learning_resource_types:
