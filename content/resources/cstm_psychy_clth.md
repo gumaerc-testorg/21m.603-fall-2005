@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about the psychology of clothing,
   costume design and production.
-file: /courses/21m-603-principles-of-design-fall-2005/bb3c6a5af629def75983646f57cc8bac_cstm_psychy_clth.pdf
+file: /ol-ocw-studio-app/courses/21m-603-principles-of-design-fall-2005/bb3c6a5af629def75983646f57cc8bac_cstm_psychy_clth.pdf
 file_size: 16490
 file_type: application/pdf
 learning_resource_types: []
